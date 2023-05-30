@@ -3,3 +3,4 @@ File with text 1 on main
 Change 1
 Change 2
 Change 3
+Change 4
